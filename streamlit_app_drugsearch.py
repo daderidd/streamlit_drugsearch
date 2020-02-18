@@ -20,6 +20,7 @@ def load_data(nrows,path,DATE_COLUMN = None):
     if DATE_COLUMN is not None:
     	data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
     return data
+buildings_ge = pd.read_pickle('./Data/buildings_ge.pkl')
 data_folder = Path("../../../../Switchdrive/PhD/Data/Delta/").resolve()
 DATA_URL = data_folder/'Clean_data'/'20200802_drug.csv'
 path = data_folder/'Clean_data'/'20200802_geometries.csv'
@@ -66,27 +67,7 @@ if atc != '':
 	filtered_data = filtered_data[filtered_data.lat.isnull()==False]
 	st.subheader('Carte des prescriptions de %s en %s/2018' % (atc,month_to_filter))
 	st.map(filtered_data)
-	### RATIO MAP
-	##########################
-	grouping_level = st.sidebar.selectbox("See prescribing by:", ['Prescribers','Cercles de qualité','Distributeurs'], 0) #Add a select box to choose the grouping level
-	##########################
-	versus_filter = st.sidebar.text_input('Filter versus name list').lower() #Add text box input for ATC filtering
-	##########################
-	versus =  st.sidebar.selectbox("ATC choices", atc_data[atc_data.nameen.str.contains(versus_filter)]['nameen'].sort_values().unique().tolist(), 0)
-	##########################
-	group_dict = {'Prescribers':'prescriberid','Distributeurs':'distributorid'}
-if versus != '':
-
-	atc_level_vs = dict_atc_levels[versus]
-
-	y = data[data[atc_level_on] == atc].groupby(group_dict[grouping_level]).count().patientid/data[data[atc_level_vs] == versus].groupby(group_dict[grouping_level]).count().patientid
-	y = pd.DataFrame(y.dropna().sort_values().reset_index(drop = True)).reset_index().rename(columns = {'index':'mpr','patientid':'fraction'})
-	
-	st.subheader('Number of patients that received %s per 1,000 patients that received %s' % (atc, versus))
-	y['fraction'] = y['fraction']*1000
-	st.bar_chart(y['fraction'].to_numpy())
-	# c = alt.Chart(y).mark_bar().encode(x = alt.X('mpr:O',axis = alt.Axis(title = 'mpr')),y = alt.Y('fraction',axis = alt.Axis(title = 'Number of patients that received %s per 1,000 patients that received %s' % (atc, versus))))
-	# st.altair_chart(c)
+	### PYDECK MAP
 	buildings_ge = pd.read_pickle('./Data/buildings_ge.pkl')
 	LAND_COVER  = [[[-74.0, 40.7], [-74.02, 40.7], [-74.02, 40.72], [-74.0, 40.72]]]
 	material = {'ambient': 0.5,
@@ -146,4 +127,24 @@ if versus != '':
 	      )
 		layers = [scatter,polygon,buildings]
 	st.pydeck_chart(pdk.Deck(layers=layers, initial_view_state=view_state,mapbox_key = mapbox_key()))
+	##########################
+	grouping_level = st.sidebar.selectbox("See prescribing by:", ['Prescribers','Cercles de qualité','Distributeurs'], 0,key = 'group level') #Add a select box to choose the grouping level
+	##########################
+	versus_filter = st.sidebar.text_input('Filter versus name list').lower() #Add text box input for ATC filtering
+	##########################
+	versus =  st.sidebar.selectbox("ATC choices", atc_data[atc_data.nameen.str.contains(versus_filter)]['nameen'].sort_values().unique().tolist(), 0,key = 'atc_choice')
+	##########################
+	group_dict = {'Prescribers':'prescriberid','Distributeurs':'distributorid'}
+	if versus != '':
+
+		atc_level_vs = dict_atc_levels[versus]
+
+		y = data[data[atc_level_on] == atc].groupby(group_dict[grouping_level]).count().patientid/data[data[atc_level_vs] == versus].groupby(group_dict[grouping_level]).count().patientid
+		y = pd.DataFrame(y.dropna().sort_values().reset_index(drop = True)).reset_index().rename(columns = {'index':'mpr','patientid':'fraction'})
+		
+		st.subheader('Number of patients that received %s per 1,000 patients that received %s' % (atc, versus))
+		y['fraction'] = y['fraction']*1000
+		st.bar_chart(y['fraction'].to_numpy())
+		# c = alt.Chart(y).mark_bar().encode(x = alt.X('mpr:O',axis = alt.Axis(title = 'mpr')),y = alt.Y('fraction',axis = alt.Axis(title = 'Number of patients that received %s per 1,000 patients that received %s' % (atc, versus))))
+		# st.altair_chart(c)
 
