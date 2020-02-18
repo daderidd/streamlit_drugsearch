@@ -1,0 +1,1977 @@
+atc,level
+respiratory system,atc_lvl3
+blood and blood forming organs,atc_lvl1
+musculo-skeletal system,atc_lvl1
+nervous system,atc_lvl1
+dermatologicals,atc_lvl1
+antiinfectives for systemic use,atc_lvl1
+cardiovascular system,atc_lvl3
+various,atc_lvl5
+alimentary tract and metabolism,atc_lvl1
+genito urinary system and sex hormones,atc_lvl1
+sensory organs,atc_lvl1
+"systemic hormonal preparations, excl. sex hormones and insulins",atc_lvl1
+antineoplastic and immunomodulating agents,atc_lvl1
+"antiparasitic products, insecticides and repellents",atc_lvl1
+nasal preparations,atc_lvl2
+antianemic preparations,atc_lvl2
+cough and cold preparations,atc_lvl2
+antiinflammatory and antirheumatic products,atc_lvl2
+analgesics,atc_lvl2
+emollients and protectives,atc_lvl3
+antibacterials for systemic use,atc_lvl2
+lipid modifying agents,atc_lvl2
+contrast media,atc_lvl2
+drugs for constipation,atc_lvl3
+gynecological antiinfectives and antiseptics,atc_lvl2
+calcium channel blockers,atc_lvl2
+antifungals for dermatological use,atc_lvl2
+"corticosteroids, dermatological preparations",atc_lvl2
+drugs for obstructive airway diseases,atc_lvl2
+agents acting on the renin-angiotensin system,atc_lvl2
+drugs used in diabetes,atc_lvl2
+sex hormones and modulators of the genital system,atc_lvl2
+topical products for joint and muscular pain,atc_lvl5
+anesthetics,atc_lvl2
+antithrombotic agents,atc_lvl3
+psycholeptics,atc_lvl2
+ophthalmologicals,atc_lvl2
+drugs for acid related disorders,atc_lvl2
+corticosteroids for systemic use,atc_lvl2
+vaccines,atc_lvl2
+vitamins,atc_lvl5
+"antidiarrheals, intestinal antiinflammatory/antiinfective agents",atc_lvl2
+immunosuppressants,atc_lvl3
+psychoanaleptics,atc_lvl2
+anti-acne preparations,atc_lvl2
+antibiotics and chemotherapeutics for dermatological use,atc_lvl2
+mineral supplements,atc_lvl2
+antiseptics and disinfectants,atc_lvl3
+blood substitutes and perfusion solutions,atc_lvl2
+urologicals,atc_lvl3
+antivirals for systemic use,atc_lvl2
+antiepileptics,atc_lvl3
+antihistamines for systemic use,atc_lvl3
+other dermatological preparations,atc_lvl3
+vasoprotectives,atc_lvl2
+drugs for functional gastrointestinal disorders,atc_lvl3
+stomatological preparations,atc_lvl3
+otologicals,atc_lvl2
+"digestives, incl. enzymes",atc_lvl3
+antihemorrhagics,atc_lvl2
+throat preparations,atc_lvl3
+diuretics,atc_lvl2
+other gynecologicals,atc_lvl4
+thyroid therapy,atc_lvl2
+beta blocking agents,atc_lvl4
+other nervous system drugs,atc_lvl4
+"antiobesity preparations, excl. diet products",atc_lvl3
+cardiac therapy,atc_lvl2
+antiprotozoals,atc_lvl2
+antimycotics for systemic use,atc_lvl3
+muscle relaxants,atc_lvl4
+all other non-therapeutic products,atc_lvl3
+antipsoriatics,atc_lvl2
+antineoplastic agents,atc_lvl2
+antiemetics and antinauseants,atc_lvl3
+allergens,atc_lvl3
+antigout preparations,atc_lvl3
+immune sera and immunoglobulins,atc_lvl2
+antihypertensives,atc_lvl2
+antimycobacterials,atc_lvl2
+immunostimulants,atc_lvl3
+endocrine therapy,atc_lvl2
+anti-parkinson drugs,atc_lvl2
+preparations for treatment of wounds and ulcers,atc_lvl2
+other alimentary tract and metabolism products,atc_lvl3
+bile and liver therapy,atc_lvl2
+peripheral vasodilators,atc_lvl3
+all other therapeutic products,atc_lvl3
+calcium homeostasis,atc_lvl2
+drugs for treatment of bone diseases,atc_lvl2
+pituitary and hypothalamic hormones and analogues,atc_lvl2
+pancreatic hormones,atc_lvl2
+other hematological agents,atc_lvl3
+other drugs for disorders of the musculo-skeletal system,atc_lvl3
+diagnostic radiopharmaceuticals,atc_lvl2
+other respiratory system products,atc_lvl5
+anthelmintics,atc_lvl2
+"antipruritics, incl. antihistamines, anesthetics, etc.",atc_lvl3
+diagnostic agents,atc_lvl3
+"ectoparasiticides, incl. scabicides, insecticides and repellents",atc_lvl2
+medicated dressings,atc_lvl3
+tonics,atc_lvl5
+therapeutic radiopharmaceuticals,atc_lvl2
+decongestants and other nasal preparations for topical use,atc_lvl3
+iron preparations,atc_lvl3
+"cough suppressants and expectorants, combinations",atc_lvl3
+"antiinflammatory and antirheumatic products, non-steroids",atc_lvl3
+other analgesics and antipyretics,atc_lvl4
+tetracyclines,atc_lvl4
+other cold preparations,atc_lvl5
+"lipid modifying agents, plain",atc_lvl3
+magnetic resonance imaging contrast media,atc_lvl3
+"beta-lactam antibacterials, penicillins",atc_lvl3
+"antiinfectives and antiseptics, excl. combinations with corticosteroids",atc_lvl3
+opioids,atc_lvl3
+selective calcium channel blockers with mainly vascular effects,atc_lvl3
+antifungals for topical use,atc_lvl3
+"corticosteroids, plain",atc_lvl4
+"adrenergics, inhalants",atc_lvl3
+"angiotensin ii antagonists, combinations",atc_lvl3
+"blood glucose lowering drugs, excl. insulins",atc_lvl3
+progestogens,atc_lvl4
+"anesthetics, local",atc_lvl3
+anxiolytics,atc_lvl3
+"cough suppressants, excl. combinations with expectorants",atc_lvl3
+hypnotics and sedatives,atc_lvl5
+antipsychotics,atc_lvl3
+decongestants and antiallergics,atc_lvl3
+drugs for peptic ulcer and gastro-oesophageal reflux disease (gord),atc_lvl3
+"corticosteroids for systemic use, plain",atc_lvl3
+"x-ray contrast media, iodinated",atc_lvl3
+"bacterial and viral vaccines, combined",atc_lvl4
+bacterial vaccines,atc_lvl3
+vitamin b12 and folic acid,atc_lvl3
+"vitamin a and d, incl. combinations of the two",atc_lvl3
+other antibacterials,atc_lvl4
+antidiarrheal microorganisms,atc_lvl5
+antidepressants,atc_lvl3
+anti-acne preparations for topical use,atc_lvl3
+antibiotics for topical use,atc_lvl3
+other mineral supplements,atc_lvl3
+"macrolides, lincosamides and streptogramins",atc_lvl3
+other ophthalmologicals,atc_lvl4
+i.v. solutions,atc_lvl3
+"other drugs for obstructive airway diseases, inhalants",atc_lvl3
+viral vaccines,atc_lvl3
+insulins and analogues,atc_lvl3
+drugs used in benign prostatic hypertrophy,atc_lvl3
+direct acting antivirals,atc_lvl5
+"corticosteroids, combinations with antibiotics",atc_lvl3
+"expectorants, excl. combinations with cough suppressants",atc_lvl3
+antiinfectives,atc_lvl4
+antivaricose therapy,atc_lvl3
+propulsives,atc_lvl4
+corticosteroids and antiinfectives in combination,atc_lvl4
+antifibrinolytics,atc_lvl3
+"low-ceiling diuretics, excl. thiazides",atc_lvl3
+calcium,atc_lvl4
+other sex hormones and modulators of the genital system,atc_lvl3
+potassium,atc_lvl4
+thyroid preparations,atc_lvl3
+drugs used in addictive disorders,atc_lvl3
+antiglaucoma preparations and miotics,atc_lvl3
+other beta-lactam antibacterials,atc_lvl3
+cardiac stimulants excl. cardiac glycosides,atc_lvl3
+agents against amoebiasis and other protozoal diseases,atc_lvl3
+antacids,atc_lvl3
+antimalarials,atc_lvl3
+quinolone antibacterials,atc_lvl3
+anti-dementia drugs,atc_lvl3
+estrogens,atc_lvl3
+vitamin k and other hemostatics,atc_lvl3
+progestogens and estrogens in combination,atc_lvl3
+electrolytes with carbohydrates,atc_lvl5
+"muscle relaxants, centrally acting agents",atc_lvl3
+antivertigo preparations,atc_lvl4
+aminoglycoside antibacterials,atc_lvl3
+"psychostimulants, agents used for adhd and nootropics",atc_lvl3
+antimigraine preparations,atc_lvl3
+"low-ceiling diuretics, thiazides",atc_lvl3
+antipropulsives,atc_lvl4
+"angiotensin ii antagonists, plain",atc_lvl4
+antipsoriatics for topical use,atc_lvl3
+"ace inhibitors, plain",atc_lvl4
+psycholeptics and psychoanaleptics in combination,atc_lvl3
+antiinflammatory agents,atc_lvl3
+plant alkaloids and other natural products,atc_lvl3
+other antineoplastic agents,atc_lvl4
+"vitamin b-complex, incl. combinations",atc_lvl3
+potassium-sparing agents,atc_lvl3
+capillary stabilizing agents,atc_lvl3
+high-ceiling diuretics,atc_lvl3
+"ace inhibitors, combinations",atc_lvl3
+antiinflammatory agents and antiinfectives in combination,atc_lvl3
+agents for treatment of hemorrhoids and anal fissures for topical use,atc_lvl3
+"antiarrhythmics, class i and iii",atc_lvl3
+immunoglobulins,atc_lvl3
+intestinal antiinfectives,atc_lvl3
+"antiadrenergic agents, centrally acting",atc_lvl3
+other plain vitamin preparations,atc_lvl4
+drugs for treatment of tuberculosis,atc_lvl3
+"vitamin b1, plain and in combination with vitamin b6 and b12",atc_lvl3
+"lipid modifying agents, combinations",atc_lvl3
+hormones and related agents,atc_lvl3
+hormone antagonists and related agents,atc_lvl3
+dopaminergic agents,atc_lvl3
+cicatrizants,atc_lvl3
+alkylating agents,atc_lvl3
+antimetabolites,atc_lvl3
+intestinal antiinflammatory agents,atc_lvl3
+gonadotropins and other ovulation stimulants,atc_lvl3
+chemotherapeutics for topical use,atc_lvl3
+"belladonna and derivatives, plain",atc_lvl3
+other systemic drugs for obstructive airway diseases,atc_lvl4
+bile therapy,atc_lvl3
+"corticosteroids, other combinations",atc_lvl3
+antifungals for systemic use,atc_lvl4
+anti-acne preparations for systemic use,atc_lvl3
+"corticosteroids, combinations with antiseptics",atc_lvl3
+"corticosteroids for systemic use, combinations",atc_lvl4
+"beta blocking agents, other combinations",atc_lvl3
+"muscle relaxants, peripherally acting agents",atc_lvl3
+antispasmodics in combination with psycholeptics,atc_lvl3
+sulfonamides and trimethoprim,atc_lvl3
+"antiadrenergic agents, peripherally acting",atc_lvl3
+"liver therapy, lipotropics",atc_lvl3
+vasodilators used in cardiac diseases,atc_lvl3
+other diuretics,atc_lvl3
+ocular vascular disorder agents,atc_lvl3
+selective calcium channel blockers with direct cardiac effects,atc_lvl3
+other agents acting on the renin-angiotensin system,atc_lvl3
+anti-parathyroid agents,atc_lvl3
+drugs affecting bone structure and mineralization,atc_lvl3
+antithyroid preparations,atc_lvl3
+ ,atc_lvl5
+diuretics and potassium-sparing agents in combination,atc_lvl3
+anticholinergic agents,atc_lvl3
+"x-ray contrast media, non-iodinated",atc_lvl3
+posterior pituitary lobe hormones,atc_lvl3
+glycogenolytic hormones,atc_lvl4
+other antianemic preparations,atc_lvl4
+antiandrogens,atc_lvl3
+parasympathomimetics,atc_lvl4
+other cardiac preparations,atc_lvl4
+nasal decongestants for systemic use,atc_lvl3
+mydriatics and cycloplegics,atc_lvl3
+beta blocking agents and thiazides,atc_lvl3
+antipsoriatics for systemic use,atc_lvl3
+androgens,atc_lvl3
+protectives against uv-radiation,atc_lvl3
+contraceptives for topical use,atc_lvl3
+beta blocking agents and other diuretics,atc_lvl3
+ultrasound contrast media,atc_lvl4
+hypothalamic hormones,atc_lvl3
+antinematodal agents,atc_lvl3
+cardiac glycosides,atc_lvl3
+cytotoxic antibiotics and related substances,atc_lvl3
+other otologicals,atc_lvl3
+"anesthetics, general",atc_lvl3
+local anesthetics,atc_lvl4
+i.v. solution additives,atc_lvl3
+"ascorbic acid (vitamin c), incl. combinations",atc_lvl3
+other diagnostic agents,atc_lvl5
+"ectoparasiticides, incl. scabicides",atc_lvl3
+adrenergics for systemic use,atc_lvl3
+intestinal adsorbents,atc_lvl3
+uterotonics,atc_lvl3
+hormonal contraceptives for systemic use,atc_lvl3
+parathyroid hormones and analogues,atc_lvl4
+anterior pituitary lobe hormones and analogues,atc_lvl3
+blood and related products,atc_lvl3
+skeleton,atc_lvl3
+drugs for bile therapy and lipotropics in combination,atc_lvl3
+irrigating solutions,atc_lvl3
+hepatic and reticulo endothelial system,atc_lvl3
+other antihypertensives,atc_lvl3
+"arteriolar smooth muscle, agents acting on",atc_lvl3
+androgens and female sex hormones in combination,atc_lvl3
+agents against leishmaniasis and trypanosomiasis,atc_lvl3
+other therapeutic radiopharmaceuticals,atc_lvl3
+central nervous system,atc_lvl3
+"multivitamins, combinations",atc_lvl3
+"muscle relaxants, directly acting agents",atc_lvl3
+other drugs for acid related disorders,atc_lvl5
+"other vitamin products, combinations",atc_lvl3
+other antidiarrheals,atc_lvl3
+immune sera,atc_lvl4
+other nasal preparations,atc_lvl4
+"iron, parenteral preparations",atc_lvl5
+opium derivatives and expectorants,atc_lvl5
+propionic acid derivatives,atc_lvl4
+anilides,atc_lvl4
+carbamide products,atc_lvl4
+hmg coa reductase inhibitors,atc_lvl4
+paramagnetic contrast media,atc_lvl4
+osmotically acting laxatives,atc_lvl4
+penicillins with extended spectrum,atc_lvl4
+imidazole derivatives,atc_lvl4
+opioids in combination with non-opioid analgesics,atc_lvl4
+dihydropyridine derivatives,atc_lvl4
+imidazole and triazole derivatives,atc_lvl4
+"corticosteroids, potent (group iii)",atc_lvl4
+"adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",atc_lvl4
+angiotensin ii antagonists and diuretics,atc_lvl4
+biguanides,atc_lvl4
+pregnadien derivatives,atc_lvl4
+other antifungals for topical use,atc_lvl4
+acetic acid derivatives and related substances,atc_lvl4
+"antiinflammatory preparations, non-steroids for topical use",atc_lvl4
+pyrazolones,atc_lvl4
+amides,atc_lvl4
+platelet aggregation inhibitors excl. heparin,atc_lvl4
+"sympathomimetics, plain",atc_lvl4
+benzodiazepine derivatives,atc_lvl4
+opium alkaloids and derivatives,atc_lvl4
+benzodiazepine related drugs,atc_lvl4
+"hypnotics and sedatives in combination, excl. barbiturates",atc_lvl4
+"diazepines, oxazepines, thiazepines and oxepines",atc_lvl4
+other antiallergics,atc_lvl4
+proton pump inhibitors,atc_lvl4
+glucocorticoids,atc_lvl4
+"watersoluble, nephrotropic, low osmolar x-ray contrast media",atc_lvl4
+beta-lactamase sensitive penicillins,atc_lvl4
+fenamates,atc_lvl4
+corticosteroids,atc_lvl4
+selective beta-2-adrenoreceptor agonists,atc_lvl4
+pneumococcal vaccines,atc_lvl4
+folic acid and derivatives,atc_lvl4
+iron in other combinations,atc_lvl4
+vitamin d and analogues,atc_lvl4
+other immunosuppressants,atc_lvl4
+tumor necrosis factor alpha (tnf-α) inhibitors,atc_lvl4
+selective serotonin reuptake inhibitors,atc_lvl4
+peroxides,atc_lvl4
+other antibiotics for topical use,atc_lvl4
+antiinfectives for treatment of acne,atc_lvl4
+soft paraffin and fat products,atc_lvl5
+"iron trivalent, oral preparations",atc_lvl4
+magnesium,atc_lvl4
+iodine products,atc_lvl4
+macrolides,atc_lvl4
+natural opium alkaloids,atc_lvl4
+solutions affecting the electrolyte balance,atc_lvl4
+influenza vaccines,atc_lvl4
+"insulins and analogues for injection, long-acting",atc_lvl4
+benzamides,atc_lvl4
+"other antiinflammatory and antirheumatic agents, non-steroids",atc_lvl4
+other drugs used in benign prostatic hypertrophy,atc_lvl4
+alpha-adrenoreceptor antagonists,atc_lvl4
+nucleosides and nucleotides excl. reverse transcriptase inhibitors,atc_lvl4
+"corticosteroids, potent, combinations with antibiotics",atc_lvl4
+other antiepileptics,atc_lvl4
+other opioids,atc_lvl4
+other antihistamines for systemic use,atc_lvl4
+fibrates,atc_lvl4
+wart and anti-corn preparations,atc_lvl5
+mucolytics,atc_lvl4
+fluoroquinolones,atc_lvl4
+heparins or heparinoids for topical use,atc_lvl4
+drugs for urinary frequency and incontinence,atc_lvl5
+antiinfectives and antiseptics for local oral treatment,atc_lvl4
+"corticosteroids, moderately potent, combinations with antibiotics",atc_lvl4
+enzyme preparations,atc_lvl4
+"synthetic anticholinergics, esters with tertiary amino group",atc_lvl4
+amino acids,atc_lvl4
+antiseptics,atc_lvl4
+"combinations of penicillins, incl. beta-lactamase inhibitors",atc_lvl4
+retinoids for topical use in acne,atc_lvl4
+"sulfonamides, plain",atc_lvl4
+"calcium, combinations with vitamin d and/or other drugs",atc_lvl5
+combinations of oral blood glucose lowering drugs,atc_lvl4
+sulfonylureas,atc_lvl4
+"iron bivalent, oral preparations",atc_lvl4
+progesterone receptor modulators,atc_lvl4
+thyroid hormones,atc_lvl4
+"beta blocking agents, selective",atc_lvl4
+contact laxatives,atc_lvl4
+phenothiazine derivatives,atc_lvl4
+drugs used in nicotine dependence,atc_lvl4
+second-generation cephalosporins,atc_lvl4
+peripherally acting antiobesity products,atc_lvl4
+heparin group,atc_lvl4
+other antidepressants,atc_lvl4
+"angiotensin ii antagonists, other combinations",atc_lvl4
+adrenergic and dopaminergic agents,atc_lvl4
+piperazine derivatives,atc_lvl4
+antibiotics,atc_lvl4
+preparations with salicylic acid derivatives,atc_lvl5
+other drugs for functional gastrointestinal disorders,atc_lvl4
+nitroimidazole derivatives,atc_lvl4
+"combinations and complexes of aluminium, calcium and magnesium compounds",atc_lvl4
+aminoquinolines,atc_lvl4
+"corticosteroids, moderately potent (group ii)",atc_lvl4
+triazole derivatives,atc_lvl4
+other topical products for joint and muscular pain,atc_lvl4
+other dermatologicals,atc_lvl5
+other anti-dementia drugs,atc_lvl4
+dipeptidyl peptidase 4 (dpp-4) inhibitors,atc_lvl4
+"estrogens, combinations with other drugs",atc_lvl4
+vitamin k,atc_lvl4
+"progestogens and estrogens, sequential preparations",atc_lvl4
+fatty acid derivatives,atc_lvl4
+oral rehydration salt formulations,atc_lvl5
+other centrally acting agents,atc_lvl4
+other aminoglycosides,atc_lvl4
+prolactine inhibitors,atc_lvl4
+selective immunosuppressants,atc_lvl4
+third-generation cephalosporins,atc_lvl4
+expectorants,atc_lvl5
+centrally acting sympathomimetics,atc_lvl4
+coxibs,atc_lvl4
+selective serotonin (5ht1) agonists,atc_lvl4
+pertussis vaccines,atc_lvl4
+"agents for dermatitis, excluding corticosteroids",atc_lvl4
+direct factor xa inhibitors,atc_lvl4
+"thiazides, plain",atc_lvl4
+anticholinergics,atc_lvl4
+"antivirals for treatment of hiv infections, combinations",atc_lvl4
+hepatitis vaccines,atc_lvl4
+vitamin b12 (cyanocobalamin and analogues),atc_lvl4
+"other blood glucose lowering drugs, excl. insulins",atc_lvl4
+"solvents and diluting agents, incl. irrigating solutions",atc_lvl5
+angiotensin ii antagonists and calcium channel blockers,atc_lvl4
+other antipsoriatics for topical use,atc_lvl4
+phenylpiperidine derivatives,atc_lvl4
+drugs used in alcohol dependence,atc_lvl4
+adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,atc_lvl4
+substituted alkylamines,atc_lvl4
+antidepressants in combination with psycholeptics,atc_lvl4
+phenol and derivatives,atc_lvl4
+pregnen (4) derivatives,atc_lvl4
+"natural and semisynthetic estrogens, plain",atc_lvl4
+vinca alkaloids and analogues,atc_lvl4
+serotonin (5ht3) antagonists,atc_lvl4
+platinum compounds,atc_lvl4
+enemas,atc_lvl4
+"vitamin b-complex, plain",atc_lvl5
+aldosterone antagonists,atc_lvl4
+other capillary stabilizing agents,atc_lvl4
+other hypnotics and sedatives,atc_lvl5
+hemophilus influenzae b vaccines,atc_lvl4
+vitamin k antagonists,atc_lvl4
+allergen extracts,atc_lvl4
+selective estrogen receptor modulators,atc_lvl4
+preparations inhibiting uric acid production,atc_lvl4
+ace inhibitors and calcium channel blockers,atc_lvl4
+other antipsychotics,atc_lvl4
+nitrofuran derivatives,atc_lvl4
+salicylic acid and derivatives,atc_lvl4
+"antiinflammatory agents, non-steroids",atc_lvl4
+measles vaccines,atc_lvl4
+"corticosteroids, very potent (group iv)",atc_lvl4
+ace inhibitors and diuretics,atc_lvl4
+meningococcal vaccines,atc_lvl5
+"insulins and analogues for injection, fast-acting",atc_lvl4
+sympathomimetics in glaucoma therapy,atc_lvl4
+bioflavonoids,atc_lvl4
+other antiinfectives,atc_lvl4
+"beta blocking agents, non-selective",atc_lvl4
+carbonic anhydrase inhibitors,atc_lvl4
+lincosamides,atc_lvl4
+other lipid modifying agents,atc_lvl4
+other psychostimulants and nootropics,atc_lvl4
+oripavine derivatives,atc_lvl4
+"progestogens and estrogens, fixed combinations",atc_lvl4
+"antiarrhythmics, class iii",atc_lvl4
+nucleoside and nucleotide reverse transcriptase inhibitors,atc_lvl4
+specific immunoglobulins,atc_lvl4
+imidazoline receptor agonists,atc_lvl4
+succinimide derivatives,atc_lvl4
+hydrazides,atc_lvl4
+"vitamin b1, plain",atc_lvl4
+hmg coa reductase inhibitors in combination with other lipid modifying agents,atc_lvl4
+aminoalkyl ethers,atc_lvl4
+monoclonal antibodies,atc_lvl5
+colony stimulating factors,atc_lvl4
+gonadotropin releasing hormone analogues,atc_lvl4
+aromatase inhibitors,atc_lvl4
+monoamine oxidase b inhibitors,atc_lvl4
+diphenylmethane derivatives,atc_lvl4
+carboxamide derivatives,atc_lvl4
+other agents for local oral treatment,atc_lvl4
+bulk-forming laxatives,atc_lvl4
+prostaglandin analogues,atc_lvl4
+other cicatrizants,atc_lvl5
+various alimentary tract and metabolism products,atc_lvl4
+nitrogen mustard analogues,atc_lvl4
+pyrimidine analogues,atc_lvl4
+folic acid analogues,atc_lvl4
+"corticosteroids, weak, combinations with antibiotics",atc_lvl4
+aminosalicylic acid and similar agents,atc_lvl4
+sodium-glucose co-transporter 2 (sglt2) inhibitors,atc_lvl4
+lithium,atc_lvl5
+iron in combination with folic acid,atc_lvl4
+alpha and beta blocking agents,atc_lvl4
+gonadotropins,atc_lvl4
+sulfonamides,atc_lvl4
+"belladonna alkaloids, semisynthetic, quaternary ammonium compounds",atc_lvl4
+encephalitis vaccines,atc_lvl4
+other antiinfectives and antiseptics,atc_lvl4
+leukotriene receptor antagonists,atc_lvl4
+aldehydes and derivatives,atc_lvl4
+monoamine oxidase a inhibitors,atc_lvl4
+other antithrombotic agents,atc_lvl4
+bile acids and derivatives,atc_lvl4
+anti-estrogens,atc_lvl4
+taxanes,atc_lvl4
+other sclerosing agents,atc_lvl4
+"corticosteroids, moderately potent, other combinations",atc_lvl4
+h2-receptor antagonists,atc_lvl4
+other peripheral vasodilators,atc_lvl4
+oxicams,atc_lvl4
+"insulins and analogues for injection, intermediate-acting",atc_lvl4
+retinoids for treatment of acne,atc_lvl4
+quinoline derivatives,atc_lvl4
+thioxanthene derivatives,atc_lvl4
+"corticosteroids, potent, combinations with antiseptics",atc_lvl4
+varicella zoster vaccines,atc_lvl4
+beta blocking agents and calcium channel blockers,atc_lvl4
+glucagon-like peptide-1 (glp-1) analogues,atc_lvl4
+"other muscle relaxants, peripherally acting agents",atc_lvl4
+dopamine agonists,atc_lvl4
+synthetic anticholinergic agents in combination with psycholeptics,atc_lvl4
+"corticosteroids, weak (group i)",atc_lvl4
+antivirals,atc_lvl4
+"combinations of sulfonamides and trimethoprim, incl. derivatives",atc_lvl4
+"ace inhibitors, other combinations",atc_lvl4
+interferons,atc_lvl4
+alpha glucosidase inhibitors,atc_lvl4
+drugs for treatment of hyperkalemia and hyperphosphatemia,atc_lvl4
+liver therapy,atc_lvl4
+"insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",atc_lvl4
+non-selective monoamine reuptake inhibitors,atc_lvl4
+organic nitrates,atc_lvl4
+other drugs for bile therapy,atc_lvl4
+vasopressin antagonists,atc_lvl4
+antineovascularisation agents,atc_lvl4
+barbiturates and derivatives,atc_lvl4
+"antiarrhythmics, class ic",atc_lvl4
+benzothiazepine derivatives,atc_lvl4
+other drugs for constipation,atc_lvl4
+renin-inhibitors,atc_lvl4
+calcitonin preparations,atc_lvl4
+bisphosphonates,atc_lvl4
+medicated shampoos,atc_lvl4
+testosterone-5-alpha reductase inhibitors,atc_lvl4
+anticholinesterases,atc_lvl4
+other chemotherapeutics,atc_lvl4
+other drugs affecting bone structure and mineralization,atc_lvl4
+sulfur-containing imidazole derivatives,atc_lvl4
+corticosteroids acting locally,atc_lvl4
+detoxifying agents for antineoplastic treatment,atc_lvl4
+anthroposophical medicines ,atc_lvl5
+low-ceiling diuretics and potassium-sparing agents,atc_lvl4
+prostaglandins,atc_lvl4
+indole derivatives,atc_lvl4
+interleukin inhibitors,atc_lvl4
+other estrogens,atc_lvl4
+"hmg coa reductase inhibitors, other combinations",atc_lvl4
+protease inhibitors,atc_lvl4
+other throat preparations,atc_lvl5
+butyrophenone derivatives,atc_lvl4
+tertiary amines,atc_lvl4
+barium sulfate containing x-ray contrast media,atc_lvl4
+calcineurin inhibitors,atc_lvl4
+"corticosteroids, potent, other combinations",atc_lvl4
+iron chelating agents,atc_lvl4
+antivirals for treatment of hcv infections,atc_lvl4
+vasopressin and analogues,atc_lvl4
+drugs used in hereditary angioedema,atc_lvl4
+phenothiazines with aliphatic side-chain,atc_lvl4
+antacids with antiflatulents,atc_lvl4
+"softeners, emollients",atc_lvl4
+other anti-acne preparations for topical use,atc_lvl4
+beta-lactamase resistant penicillins,atc_lvl4
+"antiandrogens, plain",atc_lvl4
+mineralocorticoids,atc_lvl4
+other parasympathomimetics,atc_lvl4
+other antivirals,atc_lvl4
+enzymes,atc_lvl4
+xanthines,atc_lvl4
+dopa and dopa derivatives,atc_lvl4
+sympathomimetics,atc_lvl4
+"bisphosphonates, combinations",atc_lvl4
+technetium (99mtc) compounds,atc_lvl5
+"antiallergic agents, excl. corticosteroids",atc_lvl4
+other vasodilators used in cardiac diseases,atc_lvl4
+anti-androgens,atc_lvl4
+oxytocin and analogues,atc_lvl4
+"watersoluble, nephrotropic, high osmolar x-ray contrast media",atc_lvl4
+estren derivatives,atc_lvl4
+other antiseptics and disinfectants,atc_lvl5
+"beta blocking agents, selective, and thiazides",atc_lvl4
+retinoids for treatment of psoriasis,atc_lvl4
+3-oxoandrosten (4) derivatives,atc_lvl4
+steroid antibacterials,atc_lvl4
+direct thrombin inhibitors,atc_lvl4
+carbapenems,atc_lvl4
+glycopeptide antibacterials,atc_lvl4
+protectives against uv-radiation for systemic use,atc_lvl4
+hydantoin derivatives,atc_lvl4
+intrauterine contraceptives,atc_lvl4
+combinations of drugs for treatment of tuberculosis,atc_lvl4
+tetanus vaccines,atc_lvl4
+high-ceiling diuretics and potassium-sparing agents,atc_lvl4
+vitamin b1 in combination with vitamin b6 and/or vitamin b12,atc_lvl5
+other cardiac combination products,atc_lvl5
+"beta blocking agents, selective, and other diuretics",atc_lvl4
+preparations containing sulfur,atc_lvl4
+blood coagulation factors,atc_lvl4
+rabies vaccines,atc_lvl4
+somatostatin and analogues,atc_lvl4
+other drugs for treatment of tuberculosis,atc_lvl4
+benzimidazole derivatives,atc_lvl4
+non-nucleoside reverse transcriptase inhibitors,atc_lvl4
+digitalis glycosides,atc_lvl4
+other anti-parathyroid agents,atc_lvl4
+drugs used in erectile dysfunction,atc_lvl4
+other hormone antagonists and related agents,atc_lvl4
+urinary concrement solvents,atc_lvl5
+thiouracils,atc_lvl4
+first-generation cephalosporins,atc_lvl4
+salicylic acid preparations,atc_lvl5
+"corticosteroids, very potent, other combinations",atc_lvl5
+other antiemetics,atc_lvl4
+anthracyclines and related substances,atc_lvl4
+other drugs for peptic ulcer and gastro-oesophageal reflux disease (gord),atc_lvl4
+bile acid sequestrants,atc_lvl4
+phenylalkylamine derivatives,atc_lvl4
+other alkylating agents,atc_lvl4
+anesthetics for topical use,atc_lvl4
+protein kinase inhibitors,atc_lvl5
+biguanides and amidines,atc_lvl4
+"immunoglobulins, normal human",atc_lvl4
+purine analogues,atc_lvl4
+combinations for eradication of helicobacter pylori,atc_lvl4
+podophyllotoxin derivatives,atc_lvl4
+"artemisinin and derivatives, combinations",atc_lvl4
+analgesics and anesthetics,atc_lvl4
+"belladonna alkaloids, tertiary amines",atc_lvl4
+opioid anesthetics,atc_lvl4
+other general anesthetics,atc_lvl4
+"sympathomimetics, combinations excl. corticosteroids",atc_lvl4
+zinc products,atc_lvl5
+tetrahydropyrimidine derivatives,atc_lvl4
+solutions for parenteral nutrition,atc_lvl4
+electrolyte solutions,atc_lvl4
+antidotes,atc_lvl4
+other quaternary ammonium compounds,atc_lvl4
+indifferent preparations,atc_lvl5
+"ascorbic acid (vitamin c), plain",atc_lvl4
+choline derivatives,atc_lvl4
+halogenated hydrocarbons,atc_lvl4
+other cytotoxic antibiotics,atc_lvl4
+other systemic hemostatics,atc_lvl4
+tuberculosis diagnostics,atc_lvl4
+"antacids, other combinations",atc_lvl5
+"other ectoparasiticides, incl. scabicides",atc_lvl4
+zinc,atc_lvl4
+tars,atc_lvl5
+"corticosteroids, weak, other combinations",atc_lvl4
+sympathomimetics used as decongestants,atc_lvl4
+adamantane derivatives,atc_lvl4
+other cough suppressants,atc_lvl4
+antihistamines for topical use,atc_lvl4
+melatonin receptor agonists,atc_lvl4
+charcoal preparations,atc_lvl4
+neuraminidase inhibitors,atc_lvl4
+ergot alkaloids,atc_lvl4
+typhoid vaccines,atc_lvl4
+methanolquinolines,atc_lvl4
+other urologicals,atc_lvl5
+other immunostimulants,atc_lvl4
+other bacterial vaccines,atc_lvl5
+esters of aminobenzoic acid,atc_lvl4
+purine derivatives,atc_lvl4
+drugs used in opioid dependence,atc_lvl4
+medicated dressings with antiinfectives,atc_lvl4
+organic acids,atc_lvl4
+rota virus diarrhea vaccines,atc_lvl4
+sclerosing agents for local injection,atc_lvl4
+antiandrogens and estrogens,atc_lvl4
+"barbiturates, plain",atc_lvl4
+corticosteroids for local oral treatment,atc_lvl4
+capsaicin and similar agents,atc_lvl5
+"vitamin a, plain",atc_lvl4
+somatropin and somatropin agonists,atc_lvl4
+blood substitutes and plasma protein fractions,atc_lvl4
+cod-liver oil ointments,atc_lvl5
+other local anesthetics,atc_lvl4
+colouring agents,atc_lvl4
+papillomavirus vaccines,atc_lvl4
+polymyxins,atc_lvl4
+poliomyelitis vaccines,atc_lvl4
+other antimigraine preparations,atc_lvl4
+diaminopyrimidines,atc_lvl4
+antacids with sodium bicarbonate,atc_lvl5
+"antiarrhythmics, class ib",atc_lvl4
+tests for renal function and ureteral injuries,atc_lvl4
+gonadotropin-releasing hormones,atc_lvl4
+selenium,atc_lvl4
+"pyrethrines, incl. synthetic compounds",atc_lvl4
+local hemostatics,atc_lvl4
+sensitizers used in photodynamic/radiation therapy,atc_lvl4
+"technetium (99mtc), particles for injection",atc_lvl4
+acth,atc_lvl4
+morphinan derivatives,atc_lvl4
+fibrinogen,atc_lvl4
+"technetium (99mtc), particles and colloids",atc_lvl4
+preparations increasing uric acid excretion,atc_lvl4
+antihypertensives for pulmonary arterial hypertension,atc_lvl4
+amino acids and derivatives,atc_lvl4
+pyrimidine derivatives,atc_lvl4
+androgens and estrogens,atc_lvl4
+other agents against amoebiasis and other protozoal diseases,atc_lvl4
+other agents against leishmaniasis and trypanosomiasis,atc_lvl4
+yellow fever vaccines,atc_lvl4
+other dopaminergic agents,atc_lvl4
+thiazolidinediones,atc_lvl4
+various therapeutic radiopharmaceuticals,atc_lvl4
+peripheral opioid receptor antagonists,atc_lvl4
+other mineral products,atc_lvl5
+solutions producing osmotic diuresis,atc_lvl4
+nicotinic acid and derivatives,atc_lvl4
+iodine (123i) compounds,atc_lvl4
+tuberculosis vaccines,atc_lvl4
+proteinase inhibitors,atc_lvl4
+multivitamins with minerals,atc_lvl4
+other agents for treatment of hemorrhoids and anal fissures for topical use,atc_lvl4
+dantrolene and derivatives,atc_lvl4
+respiratory stimulants,atc_lvl4
+"ascorbic acid (vitamin c), combinations",atc_lvl4
+"vitamins, other combinations",atc_lvl5
+"vitamin b-complex, other combinations",atc_lvl5
+emergency contraceptives,atc_lvl4
+"multivitamins, other combinations",atc_lvl5
+magnesium compounds,atc_lvl4
+other cough suppressants and expectorants,atc_lvl4
+intravaginal contraceptives,atc_lvl4
+anti-gonadotropin-releasing hormones,atc_lvl4
+other emollients and protectives,atc_lvl5
+other anterior pituitary lobe hormones and analogues,atc_lvl4
+tests for thyreoidea function,atc_lvl4
+other antimycotics for systemic use,atc_lvl4
+phosphonic acid derivatives,atc_lvl4
+silver compounds,atc_lvl4
+"ovulation stimulants, synthetic",atc_lvl4
+tests for pituitary function,atc_lvl4
+caries prophylactic agents,atc_lvl4
+sympathomimetics excl. antiglaucoma preparations,atc_lvl4
+ibuprofen,atc_lvl5
+paracetamol,atc_lvl5
+carbamide,atc_lvl5
+doxycycline,atc_lvl5
+simvastatin,atc_lvl5
+gadobutrol,atc_lvl5
+"macrogol, combinations",atc_lvl5
+amoxicillin,atc_lvl5
+clotrimazole,atc_lvl5
+tramadol and paracetamol,atc_lvl5
+amlodipine,atc_lvl5
+mometasone,atc_lvl5
+formoterol and budesonide,atc_lvl5
+atorvastatin,atc_lvl5
+olmesartan medoxomil and diuretics,atc_lvl5
+metformin,atc_lvl5
+dienogest,atc_lvl5
+"undecylenic acid, combinations",atc_lvl5
+acemetacin,atc_lvl5
+metamizole sodium,atc_lvl5
+combinations,atc_lvl5
+acetylsalicylic acid,atc_lvl5
+oxymetazoline,atc_lvl5
+lorazepam,atc_lvl5
+dextromethorphan,atc_lvl5
+zolpidem,atc_lvl5
+quetiapine,atc_lvl5
+ketotifen,atc_lvl5
+ketoprofen,atc_lvl5
+oxazepam,atc_lvl5
+pantoprazole,atc_lvl5
+triamcinolone,atc_lvl5
+iopamidol,atc_lvl5
+benzathine phenoxymethylpenicillin,atc_lvl5
+mefenamic acid,atc_lvl5
+salbutamol,atc_lvl5
+diphtheria-hemophilus influenzae b-pertussis-poliomyelitis-tetanus-hepatitis b,atc_lvl5
+"pneumococcus, purified polysaccharides antigen conjugated",atc_lvl5
+folic acid,atc_lvl5
+various combinations,atc_lvl5
+colecalciferol,atc_lvl5
+fosfomycin,atc_lvl5
+saccharomyces boulardii,atc_lvl5
+methotrexate,atc_lvl5
+golimumab,atc_lvl5
+escitalopram,atc_lvl5
+alprazolam,atc_lvl5
+benzoyl peroxide,atc_lvl5
+undecylenic acid,atc_lvl5
+fusidic acid,atc_lvl5
+"clindamycin, combinations",atc_lvl5
+ferric oxide polymaltose complexes,atc_lvl5
+magnesium aspartate,atc_lvl5
+lactulose,atc_lvl5
+povidone-iodine,atc_lvl5
+clarithromycin,atc_lvl5
+dexamethasone,atc_lvl5
+morphine,atc_lvl5
+retinol,atc_lvl5
+xylometazoline,atc_lvl5
+electrolytes,atc_lvl5
+fluticasone,atc_lvl5
+"influenza, inactivated, split virus or surface antigen",atc_lvl5
+esomeprazole,atc_lvl5
+insulin degludec,atc_lvl5
+amisulpride,atc_lvl5
+chondroitin sulfate,atc_lvl5
+sabalis serrulatae fructus,atc_lvl5
+tamsulosin,atc_lvl5
+valaciclovir,atc_lvl5
+fluocinonide and antibiotics,atc_lvl5
+"carbamide, combinations",atc_lvl5
+pregabalin,atc_lvl5
+tramadol,atc_lvl5
+gadoteric acid,atc_lvl5
+budesonide,atc_lvl5
+desloratadine,atc_lvl5
+fenofibrate,atc_lvl5
+acetylcysteine,atc_lvl5
+formoterol and fluticasone,atc_lvl5
+ofloxacin,atc_lvl5
+moxifloxacin,atc_lvl5
+methylprednisolone,atc_lvl5
+clopidogrel,atc_lvl5
+"heparin, combinations",atc_lvl5
+domperidone,atc_lvl5
+"tixocortol, combinations",atc_lvl5
+mirabegron,atc_lvl5
+hexetidine,atc_lvl5
+insulin detemir,atc_lvl5
+hydrocortisone and antiinfectives,atc_lvl5
+metoclopramide,atc_lvl5
+dexamethasone and antibiotics,atc_lvl5
+prednisolone,atc_lvl5
+"multienzymes (lipase, protease etc.)",atc_lvl5
+mebeverine,atc_lvl5
+tranexamic acid,atc_lvl5
+chlorhexidine,atc_lvl5
+salmeterol and fluticasone,atc_lvl5
+amoxicillin and beta-lactamase inhibitor,atc_lvl5
+tretinoin,atc_lvl5
+rosuvastatin,atc_lvl5
+insulin degludec and liraglutide,atc_lvl5
+indapamide,atc_lvl5
+artificial tears and other indifferent preparations,atc_lvl5
+cimicifugae rhizoma,atc_lvl5
+metformin and sitagliptin,atc_lvl5
+naproxen and esomeprazole,atc_lvl5
+metformin and vildagliptin,atc_lvl5
+gliclazide,atc_lvl5
+ferrous glycine sulfate,atc_lvl5
+ulipristal,atc_lvl5
+potassium chloride,atc_lvl5
+levothyroxine sodium,atc_lvl5
+metoprolol,atc_lvl5
+bisacodyl,atc_lvl5
+oxomemazine,atc_lvl5
+tilactase,atc_lvl5
+zopiclone,atc_lvl5
+varenicline,atc_lvl5
+betamethasone and antibiotics,atc_lvl5
+timolol,atc_lvl5
+diclofenac,atc_lvl5
+cefuroxime,atc_lvl5
+omeprazole,atc_lvl5
+orlistat,atc_lvl5
+dalteparin,atc_lvl5
+ketorolac,atc_lvl5
+duloxetine,atc_lvl5
+"valsartan, amlodipine and hydrochlorothiazide",atc_lvl5
+epinephrine,atc_lvl5
+levocetirizine,atc_lvl5
+tyrothricin,atc_lvl5
+silicones,atc_lvl5
+metronidazole,atc_lvl5
+magaldrate,atc_lvl5
+hydroxychloroquine,atc_lvl5
+desonide,atc_lvl5
+ciprofloxacin,atc_lvl5
+fluconazole,atc_lvl5
+etodolac,atc_lvl5
+erdosteine,atc_lvl5
+ginkgo folium,atc_lvl5
+tapentadol,atc_lvl5
+sitagliptin,atc_lvl5
+estriol,atc_lvl5
+phytomenadione,atc_lvl5
+norethisterone and estrogen,atc_lvl5
+topiramate,atc_lvl5
+valproic acid,atc_lvl5
+clonazepam,atc_lvl5
+tobramycin,atc_lvl5
+tizanidine,atc_lvl5
+"fluticasone, combinations",atc_lvl5
+betahistine,atc_lvl5
+cabergoline,atc_lvl5
+miconazole,atc_lvl5
+vedolizumab,atc_lvl5
+agomelatine,atc_lvl5
+prednisone,atc_lvl5
+nimesulide,atc_lvl5
+"olmesartan medoxomil, amlodipine and hydrochlorothiazide",atc_lvl5
+cefpodoxime,atc_lvl5
+hederae helicis folium,atc_lvl5
+citalopram,atc_lvl5
+"pneumococcus, purified polysaccharides antigen",atc_lvl5
+methylphenidate,atc_lvl5
+etoricoxib,atc_lvl5
+bilastine,atc_lvl5
+bromazepam,atc_lvl5
+sumatriptan,atc_lvl5
+"pertussis, purified antigen, combinations with toxoids",atc_lvl5
+betamethasone,atc_lvl5
+pimecrolimus,atc_lvl5
+dexlansoprazole,atc_lvl5
+azithromycin,atc_lvl5
+apixaban,atc_lvl5
+hydrochlorothiazide,atc_lvl5
+trospium,atc_lvl5
+ipratropium bromide,atc_lvl5
+loperamide,atc_lvl5
+"emtricitabine, tenofovir alafenamide, elvitegravir and cobicistat",atc_lvl5
+valsartan,atc_lvl5
+"hepatitis b, purified antigen",atc_lvl5
+econazole,atc_lvl5
+enoxaparin,atc_lvl5
+hydroxocobalamin,atc_lvl5
+repaglinide,atc_lvl5
+olmesartan medoxomil and amlodipine,atc_lvl5
+cetylpyridinium,atc_lvl5
+ambroxol,atc_lvl5
+diphtheria-hemophilus influenzae b-pertussis-poliomyelitis-tetanus,atc_lvl5
+candesartan and diuretics,atc_lvl5
+"calcipotriol, combinations",atc_lvl5
+lisinopril,atc_lvl5
+oxycodone,atc_lvl5
+fentanyl,atc_lvl5
+naltrexone,atc_lvl5
+indacaterol and glycopyrronium bromide,atc_lvl5
+norfloxacin,atc_lvl5
+codeine and paracetamol,atc_lvl5
+potassium clorazepate,atc_lvl5
+dimetindene,atc_lvl5
+trazodone,atc_lvl5
+melitracen and psycholeptics,atc_lvl5
+imidazoles/triazoles in combination with corticosteroids,atc_lvl5
+isotretinoin,atc_lvl5
+triclosan,atc_lvl5
+rabeprazole,atc_lvl5
+progesterone,atc_lvl5
+estradiol,atc_lvl5
+ketoconazole,atc_lvl5
+sodium picosulfate,atc_lvl5
+vinorelbine,atc_lvl5
+ondansetron,atc_lvl5
+carboplatin,atc_lvl5
+"sodium lauryl sulfoacetate, incl. combinations",atc_lvl5
+spironolactone,atc_lvl5
+naftazone,atc_lvl5
+darifenacin,atc_lvl5
+torasemide,atc_lvl5
+clomethiazole,atc_lvl5
+heparin,atc_lvl5
+"hemophilus influenzae b, purified antigen conjugated",atc_lvl5
+iopromide,atc_lvl5
+acenocoumarol,atc_lvl5
+house dust mites,atc_lvl5
+raloxifene,atc_lvl5
+allopurinol,atc_lvl5
+perindopril and amlodipine,atc_lvl5
+fexofenadine,atc_lvl5
+magnesium citrate,atc_lvl5
+zolmitriptan,atc_lvl5
+fingolimod,atc_lvl5
+oxybutynin,atc_lvl5
+aripiprazole,atc_lvl5
+nitrofurantoin,atc_lvl5
+sertraline,atc_lvl5
+metformin and saxagliptin,atc_lvl5
+diphtheria-pertussis-poliomyelitis-tetanus,atc_lvl5
+dexamethasone and antiinfectives,atc_lvl5
+nepafenac,atc_lvl5
+"measles, combinations with mumps and rubella, live attenuated",atc_lvl5
+celecoxib,atc_lvl5
+olmesartan medoxomil,atc_lvl5
+prednicarbate,atc_lvl5
+clobetasol,atc_lvl5
+losartan and diuretics,atc_lvl5
+perindopril and diuretics,atc_lvl5
+"meningococcus c, purified polysaccharides antigen conjugated",atc_lvl5
+olanzapine,atc_lvl5
+insulin aspart,atc_lvl5
+apraclonidine,atc_lvl5
+naproxen,atc_lvl5
+fluoxetine,atc_lvl5
+valsartan and diuretics,atc_lvl5
+"diosmin, combinations",atc_lvl5
+fluvoxamine,atc_lvl5
+hexamidine,atc_lvl5
+levofloxacin,atc_lvl5
+propranolol,atc_lvl5
+acetazolamide,atc_lvl5
+nadroparin,atc_lvl5
+lamotrigine,atc_lvl5
+clindamycin,atc_lvl5
+codeine,atc_lvl5
+metformin and linagliptin,atc_lvl5
+fluticasone furoate,atc_lvl5
+ezetimibe,atc_lvl5
+piracetam,atc_lvl5
+diazepam,atc_lvl5
+oxycodone and naloxone,atc_lvl5
+macrogol,atc_lvl5
+buprenorphine,atc_lvl5
+cinchocaine,atc_lvl5
+dydrogesterone and estrogen,atc_lvl5
+carbocisteine,atc_lvl5
+amiodarone,atc_lvl5
+telmisartan and diuretics,atc_lvl5
+entecavir,atc_lvl5
+cetirizine,atc_lvl5
+palivizumab,atc_lvl5
+nystatin,atc_lvl5
+diphtheria-poliomyelitis-tetanus,atc_lvl5
+sultiame,atc_lvl5
+risperidone,atc_lvl5
+loratadine,atc_lvl5
+etofenamate,atc_lvl5
+eletriptan,atc_lvl5
+moxonidine,atc_lvl5
+ethosuximide,atc_lvl5
+pyridoxine (vit b6),atc_lvl5
+isoniazid,atc_lvl5
+thiamine (vit b1),atc_lvl5
+grass pollen,atc_lvl5
+atorvastatin and ezetimibe,atc_lvl5
+clemastine,atc_lvl5
+rivaroxaban,atc_lvl5
+trastuzumab,atc_lvl5
+pegfilgrastim,atc_lvl5
+leuprorelin,atc_lvl5
+exemestane,atc_lvl5
+iohexol,atc_lvl5
+rasagiline,atc_lvl5
+rituximab,atc_lvl5
+etanercept,atc_lvl5
+lercanidipine,atc_lvl5
+hydroxyzine,atc_lvl5
+tiotropium bromide,atc_lvl5
+carbamazepine,atc_lvl5
+sterculia,atc_lvl5
+tafluprost,atc_lvl5
+irbesartan,atc_lvl5
+"troxerutin, combinations",atc_lvl5
+flurazepam,atc_lvl5
+infliximab,atc_lvl5
+hyperici herba,atc_lvl5
+paroxetine,atc_lvl5
+calcitriol,atc_lvl5
+sodium phosphate,atc_lvl5
+cyclophosphamide,atc_lvl5
+fluorouracil,atc_lvl5
+palonosetron,atc_lvl5
+goserelin,atc_lvl5
+hydrocortisone and antibiotics,atc_lvl5
+erythromycin,atc_lvl5
+cyanocobalamin,atc_lvl5
+"timolol, combinations",atc_lvl5
+perindopril,atc_lvl5
+bimatoprost,atc_lvl5
+tolperisone,atc_lvl5
+rizatriptan,atc_lvl5
+mesalazine,atc_lvl5
+dapagliflozin,atc_lvl5
+telmisartan,atc_lvl5
+filgrastim,atc_lvl5
+mirtazapine,atc_lvl5
+latanoprost,atc_lvl5
+ferrous sulfate,atc_lvl5
+labetalol,atc_lvl5
+dydrogesterone,atc_lvl5
+choriogonadotropin alfa,atc_lvl5
+enalapril and diuretics,atc_lvl5
+silver sulfadiazine,atc_lvl5
+dexmethylphenidate,atc_lvl5
+letrozole,atc_lvl5
+candesartan,atc_lvl5
+insulin lispro,atc_lvl5
+"adapalene, combinations",atc_lvl5
+canagliflozin,atc_lvl5
+venlafaxine,atc_lvl5
+butylscopolamine,atc_lvl5
+tenofovir disoproxil,atc_lvl5
+"encephalitis, tick borne, inactivated, whole virus",atc_lvl5
+montelukast,atc_lvl5
+chloral hydrate,atc_lvl5
+ferrous fumarate,atc_lvl5
+phenprocoumon,atc_lvl5
+atenolol,atc_lvl5
+losartan,atc_lvl5
+vortioxetine,atc_lvl5
+moclobemide,atc_lvl5
+lansoprazole,atc_lvl5
+fondaparinux,atc_lvl5
+midodrine,atc_lvl5
+ursodeoxycholic acid,atc_lvl5
+ciclopirox,atc_lvl5
+flavoxate,atc_lvl5
+tamoxifen,atc_lvl5
+paclitaxel,atc_lvl5
+baclofen,atc_lvl5
+calcium dobesilate,atc_lvl5
+terbinafine,atc_lvl5
+ranitidine,atc_lvl5
+tamsulosin and dutasteride,atc_lvl5
+naftidrofuryl,atc_lvl5
+piroxicam,atc_lvl5
+hyaluronic acid,atc_lvl5
+vilanterol and fluticasone furoate,atc_lvl5
+magnesium oxide,atc_lvl5
+insulin (human),atc_lvl5
+simvastatin and ezetimibe,atc_lvl5
+empagliflozin,atc_lvl5
+iomeprol,atc_lvl5
+lisinopril and diuretics,atc_lvl5
+dequalinium,atc_lvl5
+flupentixol,atc_lvl5
+"methylprednisolone, combinations",atc_lvl5
+salmeterol,atc_lvl5
+ciclesonide,atc_lvl5
+enalapril,atc_lvl5
+furosemide,atc_lvl5
+"varicella, live attenuated",atc_lvl5
+adapalene,atc_lvl5
+phenoxymethylpenicillin,atc_lvl5
+atenolol and nifedipine,atc_lvl5
+dulaglutide,atc_lvl5
+"brinzolamide, combinations",atc_lvl5
+botulinum toxin,atc_lvl5
+nebivolol,atc_lvl5
+irbesartan and diuretics,atc_lvl5
+pramipexole,atc_lvl5
+hydrocortisone butyrate,atc_lvl5
+fluorometholone,atc_lvl5
+solifenacin,atc_lvl5
+clidinium and psycholeptics,atc_lvl5
+hydrocortisone,atc_lvl5
+imiquimod,atc_lvl5
+"meningococcus a,c,y,w-135, tetravalent purified polysaccharides antigen conjugated",atc_lvl5
+follitropin alfa,atc_lvl5
+sulfamethoxazole and trimethoprim,atc_lvl5
+mianserin,atc_lvl5
+"perindopril, amlodipine and indapamide",atc_lvl5
+tacrolimus,atc_lvl5
+bisoprolol,atc_lvl5
+lactitol,atc_lvl5
+lidocaine,atc_lvl5
+interferon beta-1a,atc_lvl5
+acarbose,atc_lvl5
+glimepiride,atc_lvl5
+minocycline,atc_lvl5
+dexketoprofen,atc_lvl5
+gemcitabine,atc_lvl5
+emedastine,atc_lvl5
+tofacitinib,atc_lvl5
+vilanterol and umeclidinium bromide,atc_lvl5
+insulin glargine,atc_lvl5
+polystyrene sulfonate,atc_lvl5
+sevelamer,atc_lvl5
+doxazosin,atc_lvl5
+etilefrine,atc_lvl5
+ramipril,atc_lvl5
+midazolam,atc_lvl5
+silymarin,atc_lvl5
+naratriptan,atc_lvl5
+trimipramine,atc_lvl5
+glyceryl trinitrate,atc_lvl5
+choleodoron,atc_lvl5
+"sodium picosulfate, combinations",atc_lvl5
+ordinary salt combinations,atc_lvl5
+teriflunomide,atc_lvl5
+tolvaptan,atc_lvl5
+aflibercept,atc_lvl5
+ceftriaxone,atc_lvl5
+valsartan and amlodipine,atc_lvl5
+travoprost,atc_lvl5
+carvedilol,atc_lvl5
+nifedipine,atc_lvl5
+primidone,atc_lvl5
+zonisamide,atc_lvl5
+agni casti fructus,atc_lvl5
+fludrocortisone and antiinfectives,atc_lvl5
+salbutamol and ipratropium bromide,atc_lvl5
+flecainide,atc_lvl5
+diltiazem,atc_lvl5
+prucalopride,atc_lvl5
+gabapentin,atc_lvl5
+"silver sulfadiazine, combinations",atc_lvl5
+bromfenac,atc_lvl5
+azathioprine,atc_lvl5
+adalimumab,atc_lvl5
+aliskiren and hydrochlorothiazide,atc_lvl5
+calcitonin (salmon synthetic),atc_lvl5
+pravastatin,atc_lvl5
+evolocumab,atc_lvl5
+ispaghula (psylla seeds),atc_lvl5
+"emtricitabine, tenofovir disoproxil and rilpivirine",atc_lvl5
+cefaclor,atc_lvl5
+"lorazepam, combinations",atc_lvl5
+"lamivudine, abacavir and dolutegravir",atc_lvl5
+clozapine,atc_lvl5
+alendronic acid,atc_lvl5
+selenium compounds,atc_lvl5
+dexpanthenol,atc_lvl5
+tree pollen,atc_lvl5
+omalizumab,atc_lvl5
+clotiapine,atc_lvl5
+dutasteride,atc_lvl5
+donepezil,atc_lvl5
+ioversol,atc_lvl5
+clobetasone,atc_lvl5
+metformin and empagliflozin,atc_lvl5
+asenapine,atc_lvl5
+itraconazole,atc_lvl5
+pembrolizumab,atc_lvl5
+valsartan and sacubitril,atc_lvl5
+denosumab,atc_lvl5
+carbimazole,atc_lvl5
+apremilast,atc_lvl5
+amitriptyline,atc_lvl5
+prazepam,atc_lvl5
+zoledronic acid,atc_lvl5
+organo-heparinoid,atc_lvl5
+calcium folinate,atc_lvl5
+oxaliplatin,atc_lvl5
+ibandronic acid,atc_lvl5
+"emtricitabine, tenofovir disoproxil and efavirenz",atc_lvl5
+hydrochlorothiazide and potassium-sparing agents,atc_lvl5
+bevacizumab,atc_lvl5
+irinotecan,atc_lvl5
+fluocinonide,atc_lvl5
+olopatadine,atc_lvl5
+misoprostol,atc_lvl5
+lurasidone,atc_lvl5
+hippocastani semen,atc_lvl5
+secukinumab,atc_lvl5
+almotriptan,atc_lvl5
+tibolone,atc_lvl5
+"atorvastatin, amlodipine and perindopril",atc_lvl5
+atazanavir,atc_lvl5
+ritonavir,atc_lvl5
+emtricitabine and tenofovir alafenamide,atc_lvl5
+sulfasalazine,atc_lvl5
+liraglutide,atc_lvl5
+bupropion,atc_lvl5
+haloperidol,atc_lvl5
+biperiden,atc_lvl5
+barium sulfate with suspending agents,atc_lvl5
+iobitridol,atc_lvl5
+gamolenic acid,atc_lvl5
+lacosamide,atc_lvl5
+amphotericin b,atc_lvl5
+darunavir,atc_lvl5
+frovatriptan,atc_lvl5
+clobazam,atc_lvl5
+natalizumab,atc_lvl5
+lymecycline,atc_lvl5
+ivermectin,atc_lvl5
+ciclosporin,atc_lvl5
+pinaverium,atc_lvl5
+prasugrel,atc_lvl5
+deferasirox,atc_lvl5
+magnesium pidolate,atc_lvl5
+hydroxycarbamide,atc_lvl5
+fluocinolone acetonide,atc_lvl5
+indacaterol,atc_lvl5
+metoprolol and felodipine,atc_lvl5
+felodipine,atc_lvl5
+alfuzosin,atc_lvl5
+sofosbuvir and velpatasvir,atc_lvl5
+desmopressin,atc_lvl5
+ticagrelor,atc_lvl5
+oxcarbazepine,atc_lvl5
+amitriptyline and psycholeptics,atc_lvl5
+febuxostat,atc_lvl5
+gadoteridol,atc_lvl5
+carteolol,atc_lvl5
+human menopausal gonadotrophin,atc_lvl5
+glucagon,atc_lvl5
+anagrelide,atc_lvl5
+"c1-inhibitor, plasma derived",atc_lvl5
+anti-d (rh) immunoglobulin,atc_lvl5
+levetiracetam,atc_lvl5
+barium sulfate without suspending agents,atc_lvl5
+levomepromazine,atc_lvl5
+rifampicin,atc_lvl5
+levocabastine,atc_lvl5
+ordinary salt combinations and antiflatulents,atc_lvl5
+"diclofenac, combinations",atc_lvl5
+"emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat",atc_lvl5
+liquid paraffin,atc_lvl5
+pemetrexed,atc_lvl5
+darbepoetin alfa,atc_lvl5
+erythropoietin,atc_lvl5
+azelaic acid,atc_lvl5
+brinzolamide,atc_lvl5
+clomipramine,atc_lvl5
+"ispaghula, combinations",atc_lvl5
+drospirenone and estrogen,atc_lvl5
+olodaterol and tiotropium bromide,atc_lvl5
+amorolfine,atc_lvl5
+indometacin,atc_lvl5
+flucloxacillin,atc_lvl5
+"cinnarizine, combinations",atc_lvl5
+tolterodine,atc_lvl5
+aliskiren,atc_lvl5
+sotalol,atc_lvl5
+cyproterone,atc_lvl5
+norgestrel and estrogen,atc_lvl5
+triazolam,atc_lvl5
+fludrocortisone,atc_lvl5
+alirocumab,atc_lvl5
+umeclidinium bromide,atc_lvl5
+pilocarpine,atc_lvl5
+contact laxatives in combination,atc_lvl5
+magnesium (different salts in combination),atc_lvl5
+gadobenic acid,atc_lvl5
+crataegus glycosides,atc_lvl5
+raltegravir,atc_lvl5
+isosorbide dinitrate,atc_lvl5
+eplerenone,atc_lvl5
+certolizumab pegol,atc_lvl5
+finasteride,atc_lvl5
+pyridostigmine,atc_lvl5
+ivabradine,atc_lvl5
+mycophenolic acid,atc_lvl5
+anastrozole,atc_lvl5
+metformin and dapagliflozin,atc_lvl5
+pitavastatin,atc_lvl5
+perampanel,atc_lvl5
+brivaracetam,atc_lvl5
+bromelains,atc_lvl5
+theophylline,atc_lvl5
+prednisolone and antiinfectives,atc_lvl5
+levodopa and decarboxylase inhibitor,atc_lvl5
+combinations of different antibiotics,atc_lvl5
+chlorprothixene,atc_lvl5
+lisdexamfetamine,atc_lvl5
+"phenylephrine, combinations",atc_lvl5
+modafinil,atc_lvl5
+maraviroc,atc_lvl5
+dolutegravir,atc_lvl5
+idrocilamide,atc_lvl5
+alendronic acid and colecalciferol,atc_lvl5
+brimonidine,atc_lvl5
+technetium (99mtc) sestamibi,atc_lvl5
+pethidine,atc_lvl5
+azelastine,atc_lvl5
+deflazacort,atc_lvl5
+azilsartan medoxomil and diuretics,atc_lvl5
+tropicamide,atc_lvl5
+"miconazole, combinations",atc_lvl5
+flurbiprofen,atc_lvl5
+molsidomine,atc_lvl5
+combinations of levothyroxine and liothyronine,atc_lvl5
+animals,atc_lvl5
+"benzoyl peroxide, combinations",atc_lvl5
+belimumab,atc_lvl5
+insulin glulisine,atc_lvl5
+methylprednisolone aceponate,atc_lvl5
+ingenol mebutate,atc_lvl5
+bicalutamide,atc_lvl5
+formoterol,atc_lvl5
+betamethasone and antiseptics,atc_lvl5
+oxytocin,atc_lvl5
+ioxitalamic acid,atc_lvl5
+ramipril and diuretics,atc_lvl5
+aciclovir,atc_lvl5
+fluorometholone and antiinfectives,atc_lvl5
+ephedrine,atc_lvl5
+mupirocin,atc_lvl5
+norethisterone,atc_lvl5
+medroxyprogesterone,atc_lvl5
+sodium hypochlorite,atc_lvl5
+beclometasone,atc_lvl5
+fenoterol and ipratropium bromide,atc_lvl5
+dexibuprofen,atc_lvl5
+flumetasone,atc_lvl5
+bisoprolol and thiazides,atc_lvl5
+"linseed, combinations",atc_lvl5
+calcium pantothenate,atc_lvl5
+acitretin,atc_lvl5
+testosterone,atc_lvl5
+isoconazole,atc_lvl5
+dabigatran etexilate,atc_lvl5
+terbutaline,atc_lvl5
+rifamycin,atc_lvl5
+cromoglicic acid,atc_lvl5
+lormetazepam,atc_lvl5
+ertapenem,atc_lvl5
+nalmefene,atc_lvl5
+vancomycin,atc_lvl5
+betacarotene,atc_lvl5
+phenytoin,atc_lvl5
+plastic iud with progestogen,atc_lvl5
+procyclidine,atc_lvl5
+pertuzumab,atc_lvl5
+nebivolol and thiazides,atc_lvl5
+metformin and sulfonylureas,atc_lvl5
+propafenone,atc_lvl5
+"rifampicin, pyrazinamide, ethambutol and isoniazid",atc_lvl5
+tenofovir disoproxil and emtricitabine,atc_lvl5
+bromocriptine,atc_lvl5
+leflunomide,atc_lvl5
+acamprosate,atc_lvl5
+cinnarizine,atc_lvl5
+"tetanus toxoid, combinations with diphtheria toxoid",atc_lvl5
+tacalcitol,atc_lvl5
+mifepristone,atc_lvl5
+brivudine,atc_lvl5
+betaxolol,atc_lvl5
+furosemide and potassium-sparing agents,atc_lvl5
+exenatide,atc_lvl5
+paliperidone,atc_lvl5
+linagliptin,atc_lvl5
+enalapril and lercanidipine,atc_lvl5
+spaglumic acid,atc_lvl5
+nivolumab,atc_lvl5
+bufexamac,atc_lvl5
+ropinirole,atc_lvl5
+insulin glargine and lixisenatide,atc_lvl5
+hydromorphone,atc_lvl5
+deferoxamine,atc_lvl5
+atenolol and other diuretics,atc_lvl5
+chorionic gonadotrophin,atc_lvl5
+meropenem,atc_lvl5
+sulfur hexafluoride,atc_lvl5
+famciclovir,atc_lvl5
+sulfur,atc_lvl5
+rifampicin and isoniazid,atc_lvl5
+iodixanol,atc_lvl5
+docetaxel,atc_lvl5
+perindopril and bisoprolol,atc_lvl5
+atorvastatin and amlodipine,atc_lvl5
+lornoxicam,atc_lvl5
+reboxetine,atc_lvl5
+valerianae radix,atc_lvl5
+bezafibrate,atc_lvl5
+mesna,atc_lvl5
+nitrazepam,atc_lvl5
+scopolamine,atc_lvl5
+voriconazole,atc_lvl5
+coagulation factor ix,atc_lvl5
+"proguanil, combinations",atc_lvl5
+diatrizoic acid,atc_lvl5
+fluvastatin,atc_lvl5
+tenofovir alafenamide,atc_lvl5
+"rabies, inactivated, whole virus",atc_lvl5
+gemfibrozil,atc_lvl5
+octreotide,atc_lvl5
+medroxyprogesterone and estrogen,atc_lvl5
+fesoterodine,atc_lvl5
+ethambutol,atc_lvl5
+pyrazinamide,atc_lvl5
+"measles, combinations with mumps, rubella and varicella, live attenuated",atc_lvl5
+albendazole,atc_lvl5
+rilpivirine,atc_lvl5
+digoxin,atc_lvl5
+cinacalcet,atc_lvl5
+vardenafil,atc_lvl5
+galantamine,atc_lvl5
+risedronic acid,atc_lvl5
+degarelix,atc_lvl5
+propylthiouracil,atc_lvl5
+"levodopa, decarboxylase inhibitor and comt inhibitor",atc_lvl5
+ketazolam,atc_lvl5
+rosuvastatin and ezetimibe,atc_lvl5
+dorzolamide,atc_lvl5
+linaclotide,atc_lvl5
+gadoxetic acid,atc_lvl5
+"hepatitis a, inactivated, whole virus",atc_lvl5
+insulin degludec and insulin aspart,atc_lvl5
+cefazolin,atc_lvl5
+elbasvir and grazoprevir,atc_lvl5
+dihydrocodeine,atc_lvl5
+sulpiride,atc_lvl5
+zuclopenthixol,atc_lvl5
+aprepitant,atc_lvl5
+epirubicin,atc_lvl5
+sucralfate,atc_lvl5
+colestyramine,atc_lvl5
+atomoxetine,atc_lvl5
+verapamil,atc_lvl5
+temozolomide,atc_lvl5
+lanreotide,atc_lvl5
+ixekizumab,atc_lvl5
+treprostinil,atc_lvl5
+cisplatin,atc_lvl5
+regorafenib,atc_lvl5
+daratumumab,atc_lvl5
+ustekinumab,atc_lvl5
+ocrelizumab,atc_lvl5
+pirfenidone,atc_lvl5
+cetuximab,atc_lvl5
+"chlorhexidine, combinations",atc_lvl5
+gadopentetic acid,atc_lvl5
+vinblastine,atc_lvl5
+ioxaglic acid,atc_lvl5
+"immunoglobulins, normal human, for intravascular adm.",atc_lvl5
+silodosin,atc_lvl5
+disulfiram,atc_lvl5
+"emtricitabine, tenofovir alafenamide and rilpivirine",atc_lvl5
+ornidazole,atc_lvl5
+mercaptopurine,atc_lvl5
+triptorelin,atc_lvl5
+semaglutide,atc_lvl5
+"bismuth subcitrate, tetracycline and metronidazole",atc_lvl5
+flunarizine,atc_lvl5
+pipamperone,atc_lvl5
+bibrocathol,atc_lvl5
+tenoxicam,atc_lvl5
+etoposide,atc_lvl5
+azilsartan medoxomil,atc_lvl5
+glibenclamide,atc_lvl5
+metolazone,atc_lvl5
+artemether and lumefantrine,atc_lvl5
+posaconazole,atc_lvl5
+simvastatin and fenofibrate,atc_lvl5
+guselkumab,atc_lvl5
+"trifluridine, combinations",atc_lvl5
+promazine,atc_lvl5
+fluocinolone acetonide and antibiotics,atc_lvl5
+atropine,atc_lvl5
+"lidocaine, combinations",atc_lvl5
+propofol,atc_lvl5
+oxybuprocaine,atc_lvl5
+tetracaine,atc_lvl5
+levobupivacaine,atc_lvl5
+"iron, multivitamins and folic acid",atc_lvl5
+pyrantel,atc_lvl5
+"meclozine, combinations",atc_lvl5
+follitropin beta,atc_lvl5
+alfentanil,atc_lvl5
+esmolol,atc_lvl5
+carbohydrates,atc_lvl5
+granisetron,atc_lvl5
+sodium chloride,atc_lvl5
+carbetocin,atc_lvl5
+flumazenil,atc_lvl5
+"neostigmine, combinations",atc_lvl5
+sufentanil,atc_lvl5
+rocuronium bromide,atc_lvl5
+ketamine,atc_lvl5
+lactic acid producing organisms,atc_lvl5
+ascorbic acid (vit c),atc_lvl5
+tuaminoheptane,atc_lvl5
+suxamethonium,atc_lvl5
+sevoflurane,atc_lvl5
+droperidol,atc_lvl5
+bupivacaine,atc_lvl5
+dacarbazine,atc_lvl5
+bleomycin,atc_lvl5
+doxorubicin,atc_lvl5
+piperacillin and beta-lactamase inhibitor,atc_lvl5
+tocilizumab,atc_lvl5
+"articaine, combinations",atc_lvl5
+lamivudine and abacavir,atc_lvl5
+dobutamine,atc_lvl5
+fulvestrant,atc_lvl5
+romiplostim,atc_lvl5
+vincristine,atc_lvl5
+tuberculin,atc_lvl5
+remifentanil,atc_lvl5
+malathion,atc_lvl5
+zinc gluconate,atc_lvl5
+"bupivacaine, combinations",atc_lvl5
+"naphazoline, combinations",atc_lvl5
+mebendazole,atc_lvl5
+biotin,atc_lvl5
+"paracetamol, combinations excl. psycholeptics",atc_lvl5
+pseudoephedrine,atc_lvl5
+amantadine,atc_lvl5
+morclofone,atc_lvl5
+"tetryzoline, combinations",atc_lvl5
+noscapine,atc_lvl5
+edoxaban,atc_lvl5
+melatonin,atc_lvl5
+lamivudine,atc_lvl5
+eltrombopag,atc_lvl5
+"medicinal charcoal, combinations",atc_lvl5
+enzalutamide,atc_lvl5
+dasatinib,atc_lvl5
+oseltamivir,atc_lvl5
+omega-3-triglycerides incl. other esters and acids,atc_lvl5
+butamirate,atc_lvl5
+tadalafil,atc_lvl5
+abiraterone,atc_lvl5
+tocopherol (vit e),atc_lvl5
+doxylamine,atc_lvl5
+vigabatrin,atc_lvl5
+sodium bicarbonate,atc_lvl5
+phenylephrine,atc_lvl5
+palbociclib,atc_lvl5
+methylergometrine,atc_lvl5
+vismodegib,atc_lvl5
+"typhoid, oral, live attenuated",atc_lvl5
+mefloquine,atc_lvl5
+"tropicamide, combinations",atc_lvl5
+"acetylsalicylic acid, combinations excl. psycholeptics",atc_lvl5
+desflurane,atc_lvl5
+nicorandil,atc_lvl5
+ranolazine,atc_lvl5
+rivastigmine,atc_lvl5
+diphenhydramine,atc_lvl5
+lithium succinate,atc_lvl5
+nevirapine,atc_lvl5
+glatiramer acetate,atc_lvl5
+dimethyl fumarate,atc_lvl5
+sildenafil,atc_lvl5
+sodium oxybate,atc_lvl5
+chloroprocaine,atc_lvl5
+pentoxifylline,atc_lvl5
+methadone,atc_lvl5
+distigmine,atc_lvl5
+bromhexine,atc_lvl5
+lactic acid,atc_lvl5
+magnesium orotate,atc_lvl5
+peginterferon alfa-2a,atc_lvl5
+"hydroxocobalamin, combinations",atc_lvl5
+desogestrel,atc_lvl5
+"rota virus, live attenuated",atc_lvl5
+sugammadex,atc_lvl5
+teriparatide,atc_lvl5
+polidocanol,atc_lvl5
+hexoprenaline,atc_lvl5
+cyproterone and estrogen,atc_lvl5
+insects,atc_lvl5
+thiopental,atc_lvl5
+trimebutine,atc_lvl5
+ranibizumab,atc_lvl5
+acetylcholine,atc_lvl5
+cyclopentolate,atc_lvl5
+memantine,atc_lvl5
+saxagliptin,atc_lvl5
+quinapril and diuretics,atc_lvl5
+ropivacaine,atc_lvl5
+bcg vaccine,atc_lvl5
+anethole trithione,atc_lvl5
+celiprolol,atc_lvl5
+metformin and canagliflozin,atc_lvl5
+rutoside,atc_lvl5
+naloxone,atc_lvl5
+rotigotine,atc_lvl5
+guaifenesin,atc_lvl5
+efavirenz,atc_lvl5
+retinol (vit a),atc_lvl5
+somatropin,atc_lvl5
+sorafenib,atc_lvl5
+tetryzoline,atc_lvl5
+albumin,atc_lvl5
+calcium glubionate,atc_lvl5
+hepatodoron,atc_lvl5
+dronedarone,atc_lvl5
+chlormadinone and ethinylestradiol,atc_lvl5
+everolimus,atc_lvl5
+ethyl chloride,atc_lvl5
+"liquid paraffin, combinations",atc_lvl5
+alteplase,atc_lvl5
+valganciclovir,atc_lvl5
+alprostadil,atc_lvl5
+phenobarbital,atc_lvl5
+quinapril,atc_lvl5
+"fluorescein, combinations",atc_lvl5
+"papillomavirus (human types 6, 11, 16, 18)",atc_lvl5
+terlipressin,atc_lvl5
+urapidil,atc_lvl5
+colistin,atc_lvl5
+etravirine,atc_lvl5
+"poliomyelitis, trivalent, inactivated, whole virus",atc_lvl5
+hydroxyethylstarch,atc_lvl5
+calcium (different salts in combination),atc_lvl5
+rifabutin,atc_lvl5
+pyrimethamine,atc_lvl5
+dornase alfa (desoxyribonuclease),atc_lvl5
+baricitinib,atc_lvl5
+capecitabine,atc_lvl5
+glycerol,atc_lvl5
+glycopyrronium bromide,atc_lvl5
+indigo carmine,atc_lvl5
+"palonosetron, combinations",atc_lvl5
+fluorescein,atc_lvl5
+quinine,atc_lvl5
+nafarelin,atc_lvl5
+glecaprevir and pibrentasvir,atc_lvl5
+dapoxetine,atc_lvl5
+sodium selenite,atc_lvl5
+permethrin,atc_lvl5
+regadenoson,atc_lvl5
+mepivacaine,atc_lvl5
+oxiconazole,atc_lvl5
+linezolid,atc_lvl5
+eprosartan,atc_lvl5
+etomidate,atc_lvl5
+atracurium,atc_lvl5
+methyl aminolevulinate,atc_lvl5
+cabazitaxel,atc_lvl5
+penciclovir,atc_lvl5
+clonidine,atc_lvl5
+ruxolitinib,atc_lvl5
+trastuzumab emtansine,atc_lvl5
+cytarabine,atc_lvl5
+sirolimus,atc_lvl5
+podophyllotoxin,atc_lvl5
+technetium (99mtc) macrosalb,atc_lvl5
+medicinal charcoal,atc_lvl5
+etamsylate,atc_lvl5
+isoprenaline,atc_lvl5
+technetium (99mtc) tetrofosmin,atc_lvl5
+tetracosactide,atc_lvl5
+"mepivacaine, combinations",atc_lvl5
+nalbuphine,atc_lvl5
+adenosine,atc_lvl5
+mepyramine,atc_lvl5
+epinastine,atc_lvl5
+terazosin,atc_lvl5
+isopropanol,atc_lvl5
+chlorphenamine,atc_lvl5
+aminophylline,atc_lvl5
+urokinase,atc_lvl5
+aclidinium bromide,atc_lvl5
+"fibrinogen, human",atc_lvl5
+potassium iodide,atc_lvl5
+lenalidomide,atc_lvl5
+imatinib,atc_lvl5
+metformin and alogliptin,atc_lvl5
+chlorambucil,atc_lvl5
+pomalidomide,atc_lvl5
+technetium (99mtc) nanocolloid,atc_lvl5
+doxepin,atc_lvl5
+calcium acetate,atc_lvl5
+trandolapril and verapamil,atc_lvl5
+aminolevulinic acid,atc_lvl5
+procaine,atc_lvl5
+olodaterol,atc_lvl5
+telmisartan and amlodipine,atc_lvl5
+interferon alfa-2a,atc_lvl5
+bendamustine,atc_lvl5
+fosinopril and diuretics,atc_lvl5
+tetrabenazine,atc_lvl5
+rifaximin,atc_lvl5
+carbachol,atc_lvl5
+roflumilast,atc_lvl5
+temazepam,atc_lvl5
+levomethadone,atc_lvl5
+mepolizumab,atc_lvl5
+telbivudine,atc_lvl5
+probenecid,atc_lvl5
+lubiprostone,atc_lvl5
+pazopanib,atc_lvl5
+isradipine,atc_lvl5
+quinagolide,atc_lvl5
+nateglinide,atc_lvl5
+emtricitabine,atc_lvl5
+azacitidine,atc_lvl5
+riociguat,atc_lvl5
+vildagliptin,atc_lvl5
+levocarnitine,atc_lvl5
+"immunoglobulins, normal human, for extravascular adm.",atc_lvl5
+fludarabine,atc_lvl5
+"zoster, live attenuated",atc_lvl5
+eprosartan and diuretics,atc_lvl5
+minoxidil,atc_lvl5
+cilazapril,atc_lvl5
+abatacept,atc_lvl5
+prasterone and estrogen,atc_lvl5
+sertindole,atc_lvl5
+panitumumab,atc_lvl5
+ramucirumab,atc_lvl5
+cannabinoids,atc_lvl5
+ambrisentan,atc_lvl5
+erlotinib,atc_lvl5
+collagenase clostridium histolyticum,atc_lvl5
+benzylpenicillin,atc_lvl5
+atovaquone,atc_lvl5
+mivacurium chloride,atc_lvl5
+saxagliptin and dapagliflozin,atc_lvl5
+safinamide,atc_lvl5
+cilazapril and diuretics,atc_lvl5
+glibornuride,atc_lvl5
+magnesium chloride,atc_lvl5
+pentamidine isethionate,atc_lvl5
+captopril,atc_lvl5
+benazepril,atc_lvl5
+dabrafenib,atc_lvl5
+trametinib,atc_lvl5
+"yellow fever, live attenuated",atc_lvl5
+imipenem and cilastatin,atc_lvl5
+benralizumab,atc_lvl5
+"encephalitis, japanese, inactivated, whole virus",atc_lvl5
+benazepril and diuretics,atc_lvl5
+tilidine,atc_lvl5
+carfilzomib,atc_lvl5
+riluzole,atc_lvl5
+decitabine,atc_lvl5
+bazedoxifene,atc_lvl5
+osimertinib,atc_lvl5
+linagliptin and empagliflozin,atc_lvl5
+tolcapone,atc_lvl5
+sunitinib,atc_lvl5
+olaparib,atc_lvl5
+ipilimumab,atc_lvl5
+topotecan,atc_lvl5
+pioglitazone,atc_lvl5
+tiapride,atc_lvl5
+lopinavir and ritonavir,atc_lvl5
+coagulation factor viii,atc_lvl5
+radium (223ra) dichloride,atc_lvl5
+bosentan,atc_lvl5
+iloprost,atc_lvl5
+agalsidase beta,atc_lvl5
+nintedanib,atc_lvl5
+paricalcitol,atc_lvl5
+naloxegol,atc_lvl5
+zidovudine,atc_lvl5
+daptomycin,atc_lvl5
+"measles, live attenuated",atc_lvl5
+nilotinib,atc_lvl5
+rasburicase,atc_lvl5
+lapatinib,atc_lvl5
+ceritinib,atc_lvl5
+metformin and pioglitazone,atc_lvl5
+nitrendipine,atc_lvl5
+ibrutinib,atc_lvl5
+abacavir,atc_lvl5
+lenograstim,atc_lvl5
+peginterferon beta-1a,atc_lvl5
+methoxy polyethylene glycol-epoetin beta,atc_lvl5
+mannitol,atc_lvl5
+macitentan,atc_lvl5
+"buprenorphine, combinations",atc_lvl5
+sinecatechins,atc_lvl5
+acipimox,atc_lvl5
+alitretinoin,atc_lvl5
+iodine ioflupane (123i),atc_lvl5
+levobunolol,atc_lvl5
+metoprolol and other diuretics,atc_lvl5
+lesinurad,atc_lvl5
+eribulin,atc_lvl5
+verteporfin,atc_lvl5
+captopril and diuretics,atc_lvl5
+dopamine,atc_lvl5
+aluminium chlorohydrate,atc_lvl5
+afatinib,atc_lvl5
+lixisenatide,atc_lvl5
+ocriplasmin,atc_lvl5
+hepatitis b immunoglobulin,atc_lvl5
+patiromer calcium,atc_lvl5
+cisatracurium,atc_lvl5
+"tuberculosis, live attenuated",atc_lvl5
+mitomycin,atc_lvl5
+olaratumab,atc_lvl5
+lanthanum carbonate,atc_lvl5
+alogliptin,atc_lvl5
+bortezomib,atc_lvl5
+brentuximab vedotin,atc_lvl5
+alfa1 antitrypsin,atc_lvl5
+electrolytes in combination with other drugs,atc_lvl5
+colestipol,atc_lvl5
+fidaxomicin,atc_lvl5
+zidovudine and lamivudine,atc_lvl5
+ixazomib,atc_lvl5
+benzydamine,atc_lvl5
+prilocaine,atc_lvl5
+ribavirin,atc_lvl5
+"sofosbuvir, velpatasvir and voxilaprevir",atc_lvl5
+levonorgestrel and ethinylestradiol,atc_lvl5
+dichlorobenzyl alcohol,atc_lvl5
+"multivitamins and other minerals, incl. combinations",atc_lvl5
+desogestrel and ethinylestradiol,atc_lvl5
+interferon beta-1b,atc_lvl5
+axitinib,atc_lvl5
+"other preparations, combinations",atc_lvl5
+gefitinib,atc_lvl5
+"ombitasvir, paritaprevir and ritonavir",atc_lvl5
+apomorphine,atc_lvl5
+"sodium chloride, hypertonic",atc_lvl5
+dantrolene,atc_lvl5
+canakinumab,atc_lvl5
+"potassium phosphate, incl. combinations with other potassium salts",atc_lvl5
+"nikethamide, combinations",atc_lvl5
+calcium carbonate,atc_lvl5
+norelgestromin and ethinylestradiol,atc_lvl5
+cobimetinib,atc_lvl5
+avanafil,atc_lvl5
+"senna glycosides, combinations",atc_lvl5
+drospirenone and ethinylestradiol,atc_lvl5
+benzoxonium chloride,atc_lvl5
+riboflavin (vit b2),atc_lvl5
+agalsidase alfa,atc_lvl5
+dasabuvir,atc_lvl5
+nicotine,atc_lvl5
+levonorgestrel,atc_lvl5
+chloroquine,atc_lvl5
+prunus africanae cortex,atc_lvl5
+flowers,atc_lvl5
+gestodene and ethinylestradiol,atc_lvl5
+magnesium hydroxide,atc_lvl5
+hydrotalcite,atc_lvl5
+mesulfen,atc_lvl5
+cough suppressants and expectorants,atc_lvl5
+obinutuzumab,atc_lvl5
+ivacaftor,atc_lvl5
+vaginal ring with progestogen and estrogen,atc_lvl5
+cetrorelix,atc_lvl5
+"loperamide, combinations",atc_lvl5
+dienogest and estradiol,atc_lvl5
+bosutinib,atc_lvl5
+ribociclib,atc_lvl5
+vemurafenib,atc_lvl5
+ceftibuten,atc_lvl5
+paromomycin,atc_lvl5
+amikacin,atc_lvl5
+carbasalate calcium,atc_lvl5
+capsaicin,atc_lvl5
+adefovir dipivoxil,atc_lvl5
+talimogene laherparepvec,atc_lvl5
+teicoplanin,atc_lvl5
+dienogest and ethinylestradiol,atc_lvl5
+pegvisomant,atc_lvl5
+carbasalate calcium combinations excl. psycholeptics,atc_lvl5
+dexmedetomidine,atc_lvl5
+norepinephrine,atc_lvl5
+etonogestrel,atc_lvl5
+"cyanocobalamin, combinations",atc_lvl5
+thyrotropin,atc_lvl5
+von willebrand factor,atc_lvl5
+"coagulation factor ix, ii, vii and x in combination",atc_lvl5
+abciximab,atc_lvl5
+von willebrand factor and coagulation factor viii in combination,atc_lvl5
+"propanol, combinations",atc_lvl5
+caspofungin,atc_lvl5
+methionine,atc_lvl5
+ganirelix,atc_lvl5
+eflornithine,atc_lvl5
+tetanus immunoglobulin,atc_lvl5
+etelcalcetide,atc_lvl5
+ceftazidime,atc_lvl5
+foscarnet,atc_lvl5
+senna glycosides,atc_lvl5
+silver,atc_lvl5
+dihydrotachysterol,atc_lvl5
+rabies immunoglobulin,atc_lvl5
+"zidovudine, lamivudine and abacavir",atc_lvl5
+clomifene,atc_lvl5
+somatorelin,atc_lvl5
+durvalumab,atc_lvl5
+flunitrazepam,atc_lvl5
+lenvatinib,atc_lvl5
+midostaurin,atc_lvl5
+alemtuzumab,atc_lvl5
+carbon dioxide producing drugs,atc_lvl5
+"papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58)",atc_lvl5
+olaflur,atc_lvl5
+varicella/zoster immunoglobulin,atc_lvl5
+sodium fluoride,atc_lvl5
+pasireotide,atc_lvl5
