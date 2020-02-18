@@ -9,3 +9,4 @@ Notebooks/
 Miscellaneous/
 node_modules/
 .ipynb_checkpoints/
+api_key.py

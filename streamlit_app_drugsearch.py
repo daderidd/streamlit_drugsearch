@@ -6,6 +6,7 @@ from pathlib import Path
 from PIL import Image
 import altair as alt
 import pydeck as pdk
+from api_key import mapbox_key
 st.image('https://reseau-delta.ch/assets/ci_content/images/logo.png',width = 180)
 
 st.title('Recherche de données médicaments')
@@ -19,7 +20,7 @@ def load_data(nrows,path,DATE_COLUMN = None):
     if DATE_COLUMN is not None:
     	data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
     return data
-data_folder = Path("../../../../../Switchdrive/PhD/Data/Delta/").resolve()
+data_folder = Path("../../../../Switchdrive/PhD/Data/Delta/").resolve()
 DATA_URL = data_folder/'Clean_data'/'20200802_drug.csv'
 path = data_folder/'Clean_data'/'20200802_geometries.csv'
 #Import geometries
@@ -144,5 +145,5 @@ if versus != '':
 	        pickable=True
 	      )
 		layers = [scatter,polygon,buildings]
-	st.pydeck_chart(pdk.Deck(layers=layers, initial_view_state=view_state,mapbox_key = 'pk.eyJ1IjoiZGFkZXJpZGQiLCJhIjoiY2pmYmI4bTF2MjU0dDJ4bW1pdGFkaGpodSJ9.XhxTSKh9k5zQ1ysmB9g2gQ'))
+	st.pydeck_chart(pdk.Deck(layers=layers, initial_view_state=view_state,mapbox_key = mapbox_key()))
 
